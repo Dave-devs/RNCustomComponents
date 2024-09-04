@@ -10,7 +10,7 @@ const _layout = () => {
       }}
     >
       <Tabs.Screen name="toast" />
-      <Tabs.Screen name="accordion" options={{ headerShown: true, title: 'Accordion'}} />
+      <Tabs.Screen name="accordion" />
       <Tabs.Screen name="bottom-sheet" />
       <Tabs.Screen name="scrollable-bottom-sheet" />
     </Tabs>
